@@ -16,7 +16,7 @@
     --accent:#FF4E1F;
     --accent-teal:#0E5257;
     --success:#3F7D58;
-    --radius:2px;
+    --radius:2px;           
   }
   body.night{
     --paper:#151617;
