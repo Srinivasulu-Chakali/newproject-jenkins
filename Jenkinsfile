@@ -2,22 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 pipeline {
 
     agent any
