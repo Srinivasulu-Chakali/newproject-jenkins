@@ -1,7 +1,4 @@
 @Library('devops-shared-library') _
-
-
-
 pipeline {
 
     agent any
